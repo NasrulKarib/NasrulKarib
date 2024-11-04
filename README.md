@@ -7,7 +7,7 @@ Full stack developer
 I'm currently pursuing a BSc in Computer Science. I started my programming journey with C in 2020, and in 2021, I expanded to C++ and object-oriented programming, alongside competitive programming on various online platforms. That same year, I completed my first project—a desktop application, Alpona, in Java and MySQL—where sellers could upload details of their handicraft products, and buyers could reach sellers directly. In 2022, I developed my first web app, Shaluk, a campus-based platform for food and medicine delivery, using React, Express.js, and PostgreSQL. In 2023, I created my first mobile app, Prokolpo, a project management tool applying PERT and CPM methodologies, built on the no-code platform Kodular with Firebase as a real-time database.
 
 * ✉️  You can contact me at [karibarian12@gmail.com](mailto:karibarian12@gmail.com)
-* 🧠  I'm learning .Net under a course conducted by our varsity. Also, I am planning to build a mobile app about livestock disease prediction using machine learning for my undergrad thesis.
+* 🧠  I'm learning .Net under a course conducted by our varsity. Also, I have started learning system design.
 
 ### Skills
 
