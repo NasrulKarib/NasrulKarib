@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on [Campus_Crave](https://github.com/GITMOHI/Campus_Crave)
+- 👯 I’m willing to contribute on [bgce-archive](https://github.com/NesoHQ/bgce-archive)
 
 - 📫 How to reach me **karibarian12@gmail.com**
 
