@@ -5,7 +5,7 @@
 ## 🎯 Current Focus
 - 🔭 I’m currently working on [Gadget Hunt](https://github.com/NasrulKarib/Gadget-Hunt)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **FastAPI**
 
 - 👯 I’m willing to contribute on [bgce-archive](https://github.com/NesoHQ/bgce-archive)
 
