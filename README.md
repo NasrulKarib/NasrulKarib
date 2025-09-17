@@ -3,7 +3,7 @@
 <h3 align="center"> 🚀 Building the future, one commit at a time </h1>
 
 ## 🎯 Current Focus
-- 🔭 I’m currently working on [Gadget Hunt](https://github.com/NasrulKarib/Gadget-Hunt)
+- 🔭 I’m currently working on [Xtermjs](https://github.com/NasrulKarib/Xtermjs-Learning)
 
 - 🌱 I’m currently learning **Go** and **FastAPI**
 
