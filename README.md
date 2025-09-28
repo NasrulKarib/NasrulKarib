@@ -3,7 +3,7 @@
 <h3 align="center"> 🚀 Building the future, one commit at a time </h1>
 
 ## 🎯 Current Focus
-- 🔭 I’m currently working on [Xtermjs](https://github.com/NasrulKarib/Xtermjs-Learning)
+- 🔭 I’m currently working on [Web-CLI](https://github.com/NasrulKarib/Web-CLI)
 
 - 🌱 I’m currently learning **Go** and **FastAPI**
 
